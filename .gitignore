@@ -1,0 +1,11 @@
+.vscode/
+theories/*.aux
+theories/*.glob
+theories/*.vo
+theories/*.vok
+theories/*.vos
+.lia.cache
+.nia.cache
+Makefile.coq
+Makefile.coq.conf
+.Makefile.coq.d

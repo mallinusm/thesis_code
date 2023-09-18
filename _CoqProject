@@ -1,0 +1,15 @@
+-Q theories Thesis
+theories/AST.v
+theories/Soundness.v
+theories/WP.v
+theories/Heap.v
+theories/Interpreter.v
+theories/Monad.v
+theories/Playground.v
+theories/Separation.v
+theories/Shallow.v
+theories/Store.v
+theories/Aux.v
+theories/Semi.v
+theories/Tests.v
+theories/Studies.v
